@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652445887444",
+    "firebase_url": "https://react-68bd4.firebaseio.com",
+    "project_id": "react-68bd4",
+    "storage_bucket": "react-68bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652445887444:android:b6bd7c38b431e0a9a94441",
+        "android_client_info": {
+          "package_name": "com.epibook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652445887444-0ffpbloo8obck5heceprl56j5c0125v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf1e1oQCGQZ48uDOnF5T7WkK5-1krXOrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652445887444-0ffpbloo8obck5heceprl56j5c0125v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
